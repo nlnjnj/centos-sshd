@@ -1,2 +1,2 @@
 # centos-sshd
-Dockerized Centos SSH service
+Dockerized SSH service, built on top of official CentOS images.
